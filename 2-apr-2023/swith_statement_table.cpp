@@ -35,7 +35,5 @@ switch (month){
    cout << "This Month Not Found";
     break;
    }
-         return 0;
-
    
 }
